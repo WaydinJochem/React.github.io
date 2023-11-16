@@ -11,6 +11,24 @@
             "img": "https://i.postimg.cc/Gp81jR9P/Woman_Reading_Led_Sign,_Reading_Books_Led_Sign,_Wall_Decor,_Book_Lovers_Neon_Sign,_Custom_Neon_Sign,.jpg",
             "title": "Reading",
             "descr": "As Humans I believe that we have an innate thirst for knowledge, an d I personally find that satiating this desire through reading is the best option for me"
+        },
+        {
+            "id": 3,
+            "img": "https://i.postimg.cc/FR3vftSV/download-4.jpg",
+            "title": "Long Lonely Walks",
+            "descr": "As much as  love people I do occasionally require some time to do sel-introspection. This helps me sort out my emotions and unclutter my mind."
+        },
+        {
+            "id": 4,
+            "img": "https://i.postimg.cc/Y2ySJ73h/image.jpg",
+            "title": "Gaming",
+            "descr": "Just like the next individual I really do enjoy playing a variety of video-games, majority being competitive multiplayer games. There's nothing better than testing your skills against someone whose equally or more skilled that you."
+        },
+        {
+            "id": 5,
+            "img": "https://i.postimg.cc/tTttMRfc/download.jpg",
+            "title": "Hard Coding",
+            "descr": "Great way to stimulate my mind and access a level of creativity that's generally not accessible to me in my everyday life. It does not bring me joy, it bring me satisfaction."
         }
     ]
 }
