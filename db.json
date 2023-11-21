@@ -115,5 +115,15 @@
         "name": "TypeScript"
     }
 
+  ],
+  "projects": [
+    {
+        "id": 1,
+        "name": "E-commerce",
+        "desc": "A fullstack application built alongside my assignment partner Connor WinkWork. This made use of restful APIs and VueJS",
+        "hostlink": "https://silly-empanada-f331b6.netlify.app",
+        "github": ""
+    }
+
   ]
 }
