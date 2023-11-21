@@ -122,7 +122,14 @@
         "name": "E-commerce",
         "desc": "A fullstack application built alongside my assignment partner Connor WinkWork. This made use of restful APIs and VueJS",
         "hostlink": "https://silly-empanada-f331b6.netlify.app",
-        "github": ""
+        "github": "https://github.com/WaydinJochem/Fullstack_Project.git"
+    },
+    {
+        "id": 2,
+        "name": "BMI Calculator",
+        "desc": "A simple Body Mass Indicator built using HTML5, BootStrap and JavaScript. One of my earlier projects",
+        "hostlink": "https://waydin-bmi-calculator.netlify.app",
+        "github": "https://github.com/WaydinJochem/BMI-calculator.git"
     }
 
   ]
