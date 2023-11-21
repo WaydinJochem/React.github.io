@@ -66,28 +66,54 @@
   "skills": [
     {
         "id": 1,
-        "img": "https://i.postimg.cc/66k51g2j/bootstrap.png",
-        "name": "BootStrap v5"
+        "img": "https://i.postimg.cc/bwmzby2P/icons8-html-5-100.png",
+        "name": "Html 5"
     },
     {
         "id": 2,
-        "img": "https://i.postimg.cc/gk3k9s3Y/files.png",
-        "name": "Vue#"
+        "img": "https://i.postimg.cc/3x88d4N9/icons8-css-100.png",
+        "name": "Css 3"
     },
     {
         "id": 3,
-        "img": "https://i.postimg.cc/Jn3PV97N/html-5-logotype.png",
-        "name": "Html5"
+        "img": "https://i.postimg.cc/kXFMJFJB/icons8-bootstrap-a-free-and-open-source-css-framework-80.png",
+        "name": "Bootstrap"
     },
     {
         "id": 4,
-        "img": "https://i.postimg.cc/nhkFrLdg/Screenshot-2023-07-03-100843.png",
-        "name": "JavaScript"
+        "img": "https://i.postimg.cc/Z5Ww4jZS/icons8-mysql-an-open-source-relational-database-management-system-80.png",
+        "name": "MySQL"
     },
     {
         "id": 5,
-        "img": "https://i.postimg.cc/W4YsmHc7/eng.png",
-        "name": "English"
+        "img": "https://i.postimg.cc/3xznRpJD/icons8-rest-api-100.png",
+        "name": "Restful APIs"
+    },
+    {
+        "id": 6,
+        "img": "https://i.postimg.cc/Wz602FYg/icons8-nodejs-100.png",
+        "name": "NodeJS"
+    },
+    {
+        "id": 7,
+        "img": "https://i.postimg.cc/wjqwZH47/icons8-vue-js-100.png",
+        "name": "VueJS"
+    },
+    {
+        "id": 8,
+        "img": "https://i.postimg.cc/bv0P91JK/icons8-react-native-100.png",
+        "name": "React"
+    },
+    {
+        "id": 9,
+        "img": "https://i.postimg.cc/cCJyMjgz/icons8-javascript-100.png",
+        "name": "JavaScript"
+    },
+    {
+        "id": 10,
+        "img": "https://i.postimg.cc/wv2YNHvJ/icons8-typescript-100.png",
+        "name": "TypeScript"
     }
+
   ]
 }
