@@ -68,6 +68,26 @@
         "id": 1,
         "img": "https://i.postimg.cc/66k51g2j/bootstrap.png",
         "name": "BootStrap v5"
+    },
+    {
+        "id": 2,
+        "img": "https://i.postimg.cc/gk3k9s3Y/files.png",
+        "name": "Vue#"
+    },
+    {
+        "id": 3,
+        "img": "https://i.postimg.cc/Jn3PV97N/html-5-logotype.png",
+        "name": "Html5"
+    },
+    {
+        "id": 4,
+        "img": "https://i.postimg.cc/nhkFrLdg/Screenshot-2023-07-03-100843.png",
+        "name": "JavaScript"
+    },
+    {
+        "id": 5,
+        "img": "https://i.postimg.cc/W4YsmHc7/eng.png",
+        "name": "English"
     }
   ]
 }
