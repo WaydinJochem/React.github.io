@@ -126,7 +126,7 @@
     {
       "id": 2,
       "name": "BMI Calculator",
-      "desc": "A simple Body Mass Indicator built using HTML5, BootStrap and JavaScript. One of my earlier projects",
+      "desc": "A simple Body Mass Indicator built using HTML5, BootStrap and JavaScript. One of my earlier appliactions made uning JavaScript",
       "hostlink": "https://waydin-bmi-calculator.netlify.app",
       "github": "https://github.com/WaydinJochem/BMI-calculator.git"
     },
