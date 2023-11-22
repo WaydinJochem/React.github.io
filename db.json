@@ -140,7 +140,7 @@
     {
         "id": 4,
         "name": "Calculator",
-        "desc": "A Calculator created using BootStrap, HTML5, CSS3 and JavaScript, one of the creations that got me to start enjoying the capabalities that come from using JS",
+        "desc": "A Calculator created using BootStrap, HTML5, CSS3 and JavaScript, a creation that got me to start enjoying the capabalities that come from using JS",
         "hostlink": "https://waydin-calculator.netlify.app",
         "github": "https://github.com/WaydinJochem/Calculator.git"
       },
