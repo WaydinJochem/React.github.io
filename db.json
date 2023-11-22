@@ -119,21 +119,21 @@
     {
       "id": 1,
       "name": "First Portfolio",
-      "desc": "My first portfolio I created, using BootStrap and HTML5. Was one of my first times designing a website and was quite enjoyable.",
+      "desc": "My first portfolio I created, using BootStrap and HTML5. Was one of my first times designing a website and was quite enjoyable",
       "hostlink": "https://waydin-end-of-module.netlify.app",
       "github": "https://github.com/WaydinJochem/End_Of_Module.git"
     },
     {
       "id": 2,
       "name": "BMI Calculator",
-      "desc": "A simple Body Mass Indicator built using HTML5, BootStrap and JavaScript. One of my earlier appliactions made uning JavaScript",
+      "desc": "A simple Body Mass Indicator built using HTML5, BootStrap and JavaScript. One of my earlier appliactions made using JavaScript",
       "hostlink": "https://waydin-bmi-calculator.netlify.app",
       "github": "https://github.com/WaydinJochem/BMI-calculator.git"
     },
     {
       "id": 3,
       "name": "To-Do List",
-      "desc": "A To Do List created using HTML5, CSS3 and JavaScript, completed as one of my first JS projects.",
+      "desc": "A To Do List created using HTML5, CSS3 and JavaScript. A tough appliaction to build after having just learnt the basics of JavaScript",
       "hostlink": "https://wondrous-seahorse-11f151.netlify.app",
       "github": "https://github.com/WaydinJochem/To-do-list.git"
     },
