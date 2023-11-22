@@ -147,7 +147,7 @@
     {
       "id": 5,
       "name": "E-commerce",
-      "desc": "An e-commerce made using HTML5, CSS3 and JavaScript. Just like my current portfolio makes use of JSON database hosted on Github Pages to render the data.",
+      "desc": "An e-commerce made using HTML5, CSS3 and JavaScript. Made using a JSON database hosted on Github Pages to render the data.",
       "hostlink": "https://unique-cactus-0c8c13.netlify.app",
       "github": "https://github.com/WaydinJochem/JS-Final.git"
     },
