@@ -133,7 +133,7 @@
     {
       "id": 3,
       "name": "To-Do List",
-      "desc": "A To Do List created using HTML5, CSS3 and JavaScript. A tough appliaction to build after having just learnt the basics of JavaScript",
+      "desc": "A To-Do List applicaton created using HTML5, CSS3 and JavaScript. A tough appliaction to build after having just learnt the basics of JavaScript",
       "hostlink": "https://wondrous-seahorse-11f151.netlify.app",
       "github": "https://github.com/WaydinJochem/To-do-list.git"
     },
