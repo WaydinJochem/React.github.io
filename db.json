@@ -61,9 +61,10 @@
       "img": "https://i.postimg.cc/7Z1wVGGd/photo1.jpg",
       "name": "Amber-Kaye",
       "state": "Waydin is a very wise and hard-working individual and is always willing to give his opinion on various matters. He has a great personality and always bring a team together. He is also a great delegator"
-    },{
+    },
+    {
       "id": 6,
-      "img": "https://ibb.co/XZ98w33",
+      "img": "https://i.ibb.co/bgxJf22/image.png",
       "name": "Sibusiso Dyan",
       "state": "Waydin, great guy, focused individual, knows what he wants. His way of thinking and implementing his thoughts and planning into coding is great. Phenomenal guy, good team player and has a strong knowledge of coding."
     }
@@ -143,12 +144,12 @@
       "github": "https://github.com/WaydinJochem/To-do-list.git"
     },
     {
-        "id": 4,
-        "name": "Calculator",
-        "desc": "A calculator created using HTML5, CSS3 and JavaScript, a creation that got me to start enjoying the capabalities that come from using JS",
-        "hostlink": "https://waydin-calculator.netlify.app",
-        "github": "https://github.com/WaydinJochem/Calculator.git"
-      },
+      "id": 4,
+      "name": "Calculator",
+      "desc": "A calculator created using HTML5, CSS3 and JavaScript, a creation that got me to start enjoying the capabalities that come from using JS",
+      "hostlink": "https://waydin-calculator.netlify.app",
+      "github": "https://github.com/WaydinJochem/Calculator.git"
+    },
     {
       "id": 5,
       "name": "E-commerce",
