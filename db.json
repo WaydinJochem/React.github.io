@@ -73,52 +73,62 @@
     {
       "id": 1,
       "img": "https://i.ibb.co/TLZZCqx/icons8-html-5-100.png",
-      "name": "Html 5"
+      "name": "Html 5",
+      "desc": "HTML5 is the latest version of the HTML standard, empowering web developers with enhanced semantics, multimedia capabilities, and improved accessibility for building dynamic and feature-rich websites and applications."
     },
     {
       "id": 2,
       "img": "https://i.ibb.co/KqmHxWK/icons8-css-100.png",
-      "name": "Css 3"
+      "name": "Css 3",
+      "desc": "CSS3 revolutionizes web styling with advanced features, transitions, animations, and responsive design capabilities, empowering designers to create visually stunning, flexible, and interactive user interfaces for modern websites and applications."
     },
     {
       "id": 3,
       "img": "https://i.ibb.co/jgwMGN4/icons8-bootstrap-a-free-and-open-source-css-framework-80.png",
-      "name": "Bootstrap"
+      "name": "Bootstrap",
+      "desc": "Bootstrap is a popular open-source framework that simplifies web development by providing responsive design, pre-built components, and a flexible grid system, enabling developers to create modern and mobile-friendly websites."
     },
     {
       "id": 4,
       "img": "https://i.ibb.co/1s6FT2w/icons8-mysql-an-open-source-relational-database-management-system-80.png",
-      "name": "MySQL"
+      "name": "MySQL",
+      "desc":"MySQL is an open-source relational database management system (RDBMS) that facilitates efficient storage, retrieval, and management of data, widely used for web applications and various software solutions."
     },
     {
       "id": 5,
       "img": "https://i.ibb.co/K0vM0kP/icons8-rest-api-100.png",
-      "name": "Restful APIs"
+      "name": "Restful APIs",
+      "desc": "RESTful APIs (Representational State Transfer) are a web architecture style that uses standardized principles for building scalable and interoperable web services, allowing seamless communication and data exchange between different applications."
     },
     {
       "id": 6,
       "img": "https://i.ibb.co/CwzFLSF/icons8-nodejs-100.png",
-      "name": "NodeJS"
+      "name": "NodeJS",
+      "desc": "Node.js is a powerful open-source JavaScript runtime built on Chrome's V8 engine. It enables server-side JavaScript development, providing a scalable and efficient platform for building fast, event-driven, and networked applications."
     },
     {
       "id": 7,
       "img": "https://i.ibb.co/hR65xcT/icons8-vue-js-100.png",
-      "name": "VueJS"
+      "name": "VueJS",
+      "desc": "Vue.js is a progressive JavaScript framework for building user interfaces. With a flexible and approachable design, Vue.js facilitates the creation of dynamic, interactive, and modern web applications seamlessly."
     },
     {
       "id": 8,
       "img": "https://i.ibb.co/WfmMmq0/icons8-react-native-100.png",
-      "name": "React"
+      "name": "React",
+      "desc": "React is a JavaScript library for building user interfaces. Developed by Facebook, it enables the creation of efficient, reusable UI components, making it easy to build interactive and responsive web applications."
     },
     {
       "id": 9,
       "img": "https://i.ibb.co/MDy9k7f/icons8-javascript-100.png",
-      "name": "JavaScript"
+      "name": "JavaScript",
+      "desc": "JS (JavaScript) is a versatile, high-level programming language commonly used for web development. With wide browser support, JS enables dynamic, interactive, and client-side functionality in modern web applications."
     },
     {
       "id": 10,
       "img": "https://i.ibb.co/vZxrps3/icons8-typescript-100.png",
-      "name": "TypeScript"
+      "name": "TypeScript",
+      "desc": "TS (TypeScript) is a superset of JavaScript that adds static typing. It enhances code maintainability and developer productivity by providing a robust type system and modern language features."
     }
   ],
   "projects": [
